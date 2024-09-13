@@ -4,7 +4,13 @@ This is a small task for Laravel newcomers to create their first small project a
 
 This repository is a solution to the project description below.
 
+![](https://laraveldaily.com/uploads/2024/09/minicrm-screenshot-1.png)
+
+![](https://laraveldaily.com/uploads/2024/09/minicrm-screenshot-2.png)
+
 ---
+
+## Project Description
 
 ### Intro
 
